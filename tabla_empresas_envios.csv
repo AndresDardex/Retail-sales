@@ -1,0 +1,5 @@
+Id_delivery,Company,Coverage,Delivery Time,Average Rate
+1,UPS,National,2-7 days,$10-$50
+2,FedEx,National and International,1-5 days,$15-$60
+3,USPS,National,2-10 days,$5-$30
+4,DHL,National and International,1-7 days,$20-$70
